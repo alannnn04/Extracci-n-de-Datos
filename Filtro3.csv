@@ -1,0 +1,240 @@
+,continent,region,head_of_state
+0,North America,Caribbean,Willem-Alexander
+1,Asia,Southern and Central Asia,Mohammad Omar
+2,Africa,Central Africa,Jose Eduardo dos Santos
+3,North America,Caribbean,Elisabeth II
+4,Europe,Southern Europe,Rexhep Mejdani
+5,Europe,Southern Europe,
+6,North America,Caribbean,Willem-Alexander
+7,Asia,Middle East,Zayid bin Sultan al-Nahayan
+8,South America,South America,Fernando de la Rua
+9,Asia,Middle East,Robert KotSarjan
+10,Oceania,Polynesia,George W. Bush
+11,Antarctica,Antarctica,
+12,Antarctica,Antarctica,Jacques Chirac
+13,North America,Caribbean,Elisabeth II
+14,Oceania,Australia and New Zealand,Elisabeth II
+15,Europe,Western Europe,Thomas Klestil
+16,Asia,Middle East,Heydar aliyev
+17,Africa,Eastern Africa,Pierre Buyoya
+18,Europe,Western Europe,Albert II
+19,Africa,Western Africa,Mathieu Kerekou
+20,Africa,Western Africa,Blaise Compaore
+21,Asia,Southern and Central Asia,Shahabuddin Ahmad
+22,Europe,Eastern Europe,Petar Stojanov
+23,Asia,Middle East,Hamad ibn Isa al-Khalifa
+24,North America,Caribbean,Elisabeth II
+25,Europe,Southern Europe,Ante Jelavic
+26,Europe,Eastern Europe,Aljaksandr LukaSenka
+27,North America,Central America,Elisabeth II
+28,North America,North America,Elisabeth II
+29,South America,South America,Hugo Banzer Suarez
+30,South America,South America,Fernando Henrique Cardoso
+31,North America,Caribbean,Elisabeth II
+32,Asia,Southeast Asia,Haji Hassan al-Bolkiah
+33,Asia,Southern and Central Asia,Jigme Singye Wangchuk
+34,Antarctica,Antarctica,Harald V
+35,Africa,Southern Africa,Festus G. Mogae
+36,Africa,Central Africa,Ange-Felix Patasse
+37,North America,North America,Elisabeth II
+38,Oceania,Australia and New Zealand,Elisabeth II
+39,Europe,Western Europe,Adolf Ogi
+40,South America,South America,Ricardo Lagos Escobar
+41,Asia,Eastern Asia,Jiang Zemin
+42,Africa,Western Africa,Laurent Gbagbo
+43,Africa,Central Africa,Paul Biya
+44,Africa,Central Africa,Joseph Kabila
+45,Africa,Central Africa,Denis Sassou-Nguesso
+46,Oceania,Polynesia,Elisabeth II
+47,South America,South America,Andres Pastrana Arango
+48,Africa,Eastern Africa,Azali Assoumani
+49,Africa,Western Africa,Antonio Mascarenhas Monteiro
+50,North America,Central America,Miguel angel RodrIguez EcheverrIa
+51,North America,Caribbean,Fidel Castro Ruz
+52,Oceania,Australia and New Zealand,Elisabeth II
+53,North America,Caribbean,Elisabeth II
+54,Asia,Middle East,Glafkos Klerides
+55,Europe,Eastern Europe,Vaclav Havel
+56,Europe,Western Europe,Johannes Rau
+57,Africa,Eastern Africa,Ismail Omar Guelleh
+58,North America,Caribbean,Vernon Shaw
+59,Europe,Nordic Countries,Margrethe II
+60,North America,Caribbean,Hipolito MejIa DomInguez
+61,Africa,Northern Africa,Abdelaziz Bouteflika
+62,South America,South America,Gustavo Noboa Bejarano
+63,Africa,Northern Africa,Hosni Mubarak
+64,Africa,Eastern Africa,Isayas Afewerki [Isaias Afwerki]
+65,Africa,Northern Africa,Mohammed Abdel Aziz
+66,Europe,Southern Europe,Juan Carlos I
+67,Europe,Baltic Countries,Lennart Meri
+68,Africa,Eastern Africa,Negasso Gidada
+69,Europe,Nordic Countries,Tarja Halonen
+70,Oceania,Melanesia,Josefa Iloilo
+71,South America,South America,Elisabeth II
+72,Europe,Western Europe,Jacques Chirac
+73,Europe,Nordic Countries,Margrethe II
+74,Oceania,Micronesia,Leo A. Falcam
+75,Africa,Central Africa,Omar Bongo
+76,Europe,British Islands,Elisabeth II
+77,Asia,Middle East,Eduard Sevardnadze
+78,Africa,Western Africa,John Kufuor
+79,Europe,Southern Europe,Elisabeth II
+80,Africa,Western Africa,Lansana Conte
+81,North America,Caribbean,Jacques Chirac
+82,Africa,Western Africa,Yahya Jammeh
+83,Africa,Western Africa,Kumba Iala
+84,Africa,Central Africa,Teodoro Obiang Nguema Mbasogo
+85,Europe,Southern Europe,Kostis Stefanopoulos
+86,North America,Caribbean,Elisabeth II
+87,North America,North America,Margrethe II
+88,North America,Central America,Alfonso Portillo Cabrera
+89,South America,South America,Jacques Chirac
+90,Oceania,Micronesia,George W. Bush
+91,South America,South America,Bharrat Jagdeo
+92,Asia,Eastern Asia,Jiang Zemin
+93,Antarctica,Antarctica,Elisabeth II
+94,North America,Central America,Carlos Roberto Flores Facusse
+95,Europe,Southern Europe,Stipe Mesic
+96,North America,Caribbean,Jean-Bertrand Aristide
+97,Europe,Eastern Europe,Ferenc Madl
+98,Asia,Southeast Asia,Abdurrahman Wahid
+99,Asia,Southern and Central Asia,Kocheril Raman Narayanan
+100,Africa,Eastern Africa,Elisabeth II
+101,Europe,British Islands,Mary McAleese
+102,Asia,Southern and Central Asia,Ali Mohammad Khatami-Ardakani
+103,Asia,Middle East,Saddam Hussein al-Takriti
+104,Europe,Nordic Countries,olafur Ragnar GrImsson
+105,Asia,Middle East,Moshe Katzav
+106,Europe,Southern Europe,Carlo Azeglio Ciampi
+107,North America,Caribbean,Elisabeth II
+108,Asia,Middle East,Abdullah II
+109,Asia,Eastern Asia,Akihito
+110,Asia,Southern and Central Asia,Nursultan Nazarbajev
+111,Africa,Eastern Africa,Daniel arap Moi
+112,Asia,Southern and Central Asia,Askar Akajev
+113,Asia,Southeast Asia,Norodom Sihanouk
+114,Oceania,Micronesia,Teburoro Tito
+115,North America,Caribbean,Elisabeth II
+116,Asia,Eastern Asia,Kim Dae-jung
+117,Asia,Middle East,Jabir al-Ahmad al-Jabir al-Sabah
+118,Asia,Southeast Asia,Khamtay Siphandone
+119,Asia,Middle East,emile Lahoud
+120,Africa,Western Africa,Charles Taylor
+121,Africa,Northern Africa,Muammar al-Qadhafi
+122,North America,Caribbean,Elisabeth II
+123,Europe,Western Europe,Hans-Adam II
+124,Asia,Southern and Central Asia,Chandrika Kumaratunga
+125,Africa,Southern Africa,Letsie III
+126,Europe,Baltic Countries,Valdas Adamkus
+127,Europe,Western Europe,Henri
+128,Europe,Baltic Countries,Vaira Vike-Freiberga
+129,Asia,Eastern Asia,Jiang Zemin
+130,Africa,Northern Africa,Mohammed VI
+131,Europe,Western Europe,Rainier III
+132,Europe,Eastern Europe,Vladimir Voronin
+133,Africa,Eastern Africa,Didier Ratsiraka
+134,Asia,Southern and Central Asia,Maumoon Abdul Gayoom
+135,North America,Central America,Vicente Fox Quesada
+136,Oceania,Micronesia,Kessai Note
+137,Europe,Southern Europe,Boris Trajkovski
+138,Africa,Western Africa,Alpha Oumar Konare
+139,Europe,Southern Europe,Guido de Marco
+140,Asia,Southeast Asia,kenraali Than Shwe
+141,Asia,Eastern Asia,Natsagiin Bagabandi
+142,Oceania,Micronesia,George W. Bush
+143,Africa,Eastern Africa,JoaquIm A. Chissano
+144,Africa,Western Africa,Maaouiya Ould Sid Ahmad Taya
+145,North America,Caribbean,Elisabeth II
+146,North America,Caribbean,Jacques Chirac
+147,Africa,Eastern Africa,Cassam uteem
+148,Africa,Eastern Africa,Bakili Muluzi
+149,Asia,Southeast Asia,Salahuddin Abdul Aziz Shah Alhaj
+150,Africa,Eastern Africa,Jacques Chirac
+151,Africa,Southern Africa,Sam Nujoma
+152,Oceania,Melanesia,Jacques Chirac
+153,Africa,Western Africa,Mamadou Tandja
+154,Oceania,Australia and New Zealand,Elisabeth II
+155,Africa,Western Africa,Olusegun Obasanjo
+156,North America,Central America,Arnoldo Aleman Lacayo
+157,Oceania,Polynesia,Elisabeth II
+158,Europe,Western Europe,Willem-Alexander
+159,Europe,Nordic Countries,Harald V
+160,Asia,Southern and Central Asia,Gyanendra Bir Bikram
+161,Oceania,Micronesia,Bernard Dowiyogo
+162,Oceania,Australia and New Zealand,Elisabeth II
+163,Asia,Middle East,Qabus ibn Sa id
+164,Asia,Southern and Central Asia,Mohammad Rafiq Tarar
+165,North America,Central America,Mireya Elisa Moscoso RodrIguez
+166,Oceania,Polynesia,Elisabeth II
+167,South America,South America,Valentin Paniagua Corazao
+168,Asia,Southeast Asia,Gloria Macapagal-Arroyo
+169,Oceania,Micronesia,Kuniwo Nakamura
+170,Oceania,Melanesia,Elisabeth II
+171,Europe,Eastern Europe,Aleksander Kwasniewski
+172,North America,Caribbean,George W. Bush
+173,Asia,Eastern Asia,Kim Jong-il
+174,Europe,Southern Europe,Jorge Sampaio
+175,South America,South America,Luis angel Gonzalez Macchi
+176,Asia,Middle East,Yasser (Yasir) Arafat
+177,Oceania,Polynesia,Jacques Chirac
+178,Asia,Middle East,Hamad ibn Khalifa al-Thani
+179,Africa,Eastern Africa,Jacques Chirac
+180,Europe,Eastern Europe,Ion Iliescu
+181,Europe,Eastern Europe,Vladimir Putin
+182,Africa,Eastern Africa,Paul Kagame
+183,Asia,Middle East,Fahd ibn Abdul-Aziz al-Sa ud
+184,Africa,Northern Africa,Omar Hassan Ahmad al-Bashir
+185,Africa,Western Africa,Abdoulaye Wade
+186,Asia,Southeast Asia,Sellapan Rama Nathan
+187,Antarctica,Antarctica,Elisabeth II
+188,Africa,Western Africa,Elisabeth II
+189,Europe,Nordic Countries,Harald V
+190,Oceania,Melanesia,Elisabeth II
+191,Africa,Western Africa,Ahmed Tejan Kabbah
+192,North America,Central America,Francisco Guillermo Flores Perez
+193,Europe,Southern Europe,
+194,Africa,Eastern Africa,Abdiqassim Salad Hassan
+195,North America,North America,Jacques Chirac
+196,Africa,Central Africa,Miguel Trovoada
+197,South America,South America,Ronald Venetiaan
+198,Europe,Eastern Europe,Rudolf Schuster
+199,Europe,Southern Europe,Milan Kucan
+200,Europe,Nordic Countries,Carl XVI Gustaf
+201,Africa,Southern Africa,Mswati III
+202,Africa,Eastern Africa,France-Albert Rene
+203,Asia,Middle East,Bashar al-Assad
+204,North America,Caribbean,Elisabeth II
+205,Africa,Central Africa,Idriss Deby
+206,Africa,Western Africa,Gnassingbe Eyadema
+207,Asia,Southeast Asia,Bhumibol Adulyadej
+208,Asia,Southern and Central Asia,Emomali Rahmonov
+209,Oceania,Polynesia,Elisabeth II
+210,Asia,Southern and Central Asia,Saparmurad Nijazov
+211,Asia,Southeast Asia,Jose Alexandre Gusmao
+212,Oceania,Polynesia,Taufa'ahau Tupou IV
+213,North America,Caribbean,Arthur N. R. Robinson
+214,Africa,Northern Africa,Zine al-Abidine Ben Ali
+215,Asia,Middle East,Ahmet Necdet Sezer
+216,Oceania,Polynesia,Elisabeth II
+217,Asia,Eastern Asia,Chen Shui-bian
+218,Africa,Eastern Africa,Benjamin William Mkapa
+219,Africa,Eastern Africa,Yoweri Museveni
+220,Europe,Eastern Europe,Leonid KutSma
+221,Oceania,Micronesia/Caribbean,George W. Bush
+222,South America,South America,Jorge Batlle Ibanez
+223,North America,North America,George W. Bush
+224,Asia,Southern and Central Asia,Islam Karimov
+225,Europe,Southern Europe,Johannes Paavali II
+226,North America,Caribbean,Elisabeth II
+227,South America,South America,Hugo Chavez FrIas
+228,North America,Caribbean,Elisabeth II
+229,North America,Caribbean,George W. Bush
+230,Asia,Southeast Asia,Tran Duc Luong
+231,Oceania,Melanesia,John Bani
+232,Oceania,Polynesia,Jacques Chirac
+233,Oceania,Polynesia,Malietoa Tanumafili II
+234,Asia,Middle East,Ali Abdallah Salih
+235,Europe,Southern Europe,Vojislav KoStunica
+236,Africa,Southern Africa,Thabo Mbeki
+237,Africa,Eastern Africa,Frederick Chiluba
+238,Africa,Eastern Africa,Robert G. Mugabe
